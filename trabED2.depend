@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1651438471 source:c:\users\leona\downloads\trabed2\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1651438566 c:\users\leona\downloads\trabed2\avl.h
+
+1651438136 source:c:\users\leona\downloads\trabed2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"avl.h"
+
+1651438136 source:c:\users\leona\downloads\trabed2\mainavl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"avl.h"
+
+1652274262 source:c:\users\leona\downloads\trabed2\trabed2\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1652274262 c:\users\leona\downloads\trabed2\trabed2\avl.h
+
+1652194137 source:c:\users\leona\downloads\trabed2\trabed2\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"avl.h"
+
+1652274262 source:c:\users\leona\downloads\trabed2\trabed2\mainavl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"avl.h"
+
